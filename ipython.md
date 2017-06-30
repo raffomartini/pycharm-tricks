@@ -1,4 +1,4 @@
-# Automatic session logging with iPhython
+# Python console session auto-logging with iPhython
 
 I would like to log all iPython console output so if I am onto somtyhing and I close the console, I can go back and see what I was doing.
 Easily done: 
